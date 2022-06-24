@@ -1,4 +1,4 @@
-# DataScienceforBusiness
+# Data Science for Business
 
 This project contains data science for business in different cases, which has three branches comprising:
 
